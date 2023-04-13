@@ -3,7 +3,7 @@
 /**
  * @author shw
  * @createTime 2023年04月13日 19:54:00
- * @description 第一题 两数之和
+ * @description 第1题 两数之和
  * 遍历数组进行求和，与目标结果进行比较。 时间复杂度O(n²)
  */
 
