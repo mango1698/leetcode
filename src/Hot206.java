@@ -3,7 +3,7 @@ import utils.ListNode;
 /**
  * @author shw
  * @date 2023/11/25 09:46
- * @description
+ * @description 反转链表
  */
 /**
  * Definition for singly-linked list.
