@@ -4,7 +4,7 @@ import java.util.Map;
 /**
  * @author shw
  * @date 2023/11/24 20:34
- * @description
+ * @description 两数之和
  */
 public class Hot1 {
     /***
