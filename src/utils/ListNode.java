@@ -16,7 +16,7 @@ package utils;
 //    }
 //}
 
-// hot 206,234,21
+// hot 206,234,21,142
 public class ListNode {
     public int val;
     public ListNode next;
